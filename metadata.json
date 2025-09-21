@@ -1,0 +1,7 @@
+{
+  "name": "Civic Issue Reporter",
+  "description": "A web application for citizens to report civic issues like potholes and sanitation problems, and for government officials to track, manage, and resolve these reported issues efficiently.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
